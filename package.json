@@ -1,0 +1,23 @@
+{
+  "name": "@ares/datasource-mongo",
+  "version": "1.0.0",
+  "description": "MongoDB module of aReS framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roberto Stefani",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rstefani87info/ares-datasource-mongo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rstefani87info/ares-datasource-mongo.git/issues"
+  },
+  "homepage": "https://github.com/rstefani87info/ares-datasource-mongo.git#readme",
+  "dependencies": {
+    "@ares/core": "workspace:^",
+    "mongodb": "^6.13.0"
+  }
+}
