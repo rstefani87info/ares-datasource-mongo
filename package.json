@@ -19,5 +19,9 @@
   "dependencies": {
     "@ares/core": "workspace:^",
     "mongodb": "^6.13.0"
+  },
+  "devDependencies": {
+    "@ares/core-dev": "workspace:^",
+    "@ares/scd": "workspace:^"
   }
 }
